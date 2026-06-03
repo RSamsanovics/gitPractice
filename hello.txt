@@ -1,3 +1,3 @@
-My first Git file
+h My first Git file
 This line was improved after merging both ideas
-edit
+edit rah rah raaaah
