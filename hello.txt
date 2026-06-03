@@ -1,2 +1,2 @@
 My first Git file
-This line was changed in master branch
+This line was improved after merging both ideas
