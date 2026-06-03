@@ -1,2 +1,2 @@
 My first Git file
-This line was changed in test-branch AGAIN
+This line was changed in master branch
