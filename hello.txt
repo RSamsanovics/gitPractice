@@ -1,2 +1,3 @@
 My first Git file
 This line was improved after merging both ideas
+edit
